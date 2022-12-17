@@ -16,3 +16,6 @@ This project was built as part of Angela Yu's 'The Complete 2022 Web Development
 * Add media queries to adjust items on the screen based on specific screen size breakpoints.
 * Refactor my code for readability, modularity, efficiency, and length.
 * Use hierarchial and combined selectors to reduce number of classes being used and make code more readable.
+
+
+<img width="1224" alt="Screen Shot 2022-12-17 at 12 56 03 PM" src="https://user-images.githubusercontent.com/50509775/208257309-e57666c5-d991-48ff-a973-f736ec525ed1.png">
